@@ -42,7 +42,6 @@ function makeSound(key){
     case'l':
     let tom4 = new Audio('sounds/tom-4.mp3');
     tom4.play();
-    break;
   }
 }
 
